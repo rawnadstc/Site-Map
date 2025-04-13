@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Main Pages -->
+  <url><loc>https://www.rawnadstc.com/home</loc></url>
+  <url><loc>https://www.rawnadstc.com/about-us</loc></url>
+  <url><loc>https://www.rawnadstc.com/services</loc></url>
+  <url><loc>https://www.rawnadstc.com/contact-us</loc></url>
+  <url><loc>https://www.rawnadstc.com/blog</loc></url>
+  <url><loc>https://www.rawnadstc.com/categories</loc></url>
+
+  <!-- Services -->
+  <url><loc>https://www.rawnadstc.com/services/rawna-dstc-web-d</loc></url>
+  <url><loc>https://www.rawnadstc.com/services/rawna-dstc-cloud</loc></url>
+  <url><loc>https://www.rawnadstc.com/services/rawna-dstc-escrow</loc></url>
+
+  <!-- Categories -->
+  <url><loc>https://www.rawnadstc.com/categories/tech-and-programming</loc></url>
+  <url><loc>https://www.rawnadstc.com/categories/graphics-design</loc></url>
+  <url><loc>https://www.rawnadstc.com/categories/digital-marketing</loc></url>
+  <url><loc>https://www.rawnadstc.com/categories/business</loc></url>
+  <url><loc>https://www.rawnadstc.com/categories/video-animation</loc></url>
+  <url><loc>https://www.rawnadstc.com/categories/consulting</loc></url>
+  <url><loc>https://www.rawnadstc.com/categories/data</loc></url>
+  <url><loc>https://www.rawnadstc.com/categories/music-and-audio</loc></url>
+  <url><loc>https://www.rawnadstc.com/categories/finance</loc></url>
+  <url><loc>https://www.rawnadstc.com/categories/writing-translation</loc></url>
+
+</urlset>
